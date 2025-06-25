@@ -37,8 +37,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anaskhalid&show_icons=true&theme=radical&border_radius=15&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaskhalid&layout=compact&theme=radical&border_radius=15" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anaskld&show_icons=true&theme=radical&border_radius=15&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaskld&layout=compact&theme=radical&border_radius=15" height="180" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anaskhalid&theme=algolia&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anaskld&theme=algolia&no-frame=true&column=7" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anaskhalid&theme=radical&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=anaskld&theme=radical&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
