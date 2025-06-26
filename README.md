@@ -38,7 +38,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anaskld&show_icons=true&theme=radical&border_radius=15&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaskld&layout=compact&theme=radical&border_radius=15" height="180" />
 </p>
 
 ---
