@@ -6,12 +6,12 @@
   <br/>
 
   <sub>
-    SOFTWARE ENGINEER&nbsp;&nbsp;·&nbsp;&nbsp;LAMP&nbsp;&nbsp;·&nbsp;&nbsp;REACT&nbsp;&nbsp;·&nbsp;&nbsp;NODE.JS
+    SOFTWARE ENGINEER&nbsp;&nbsp;·&nbsp;&nbsp;LARAVEL&nbsp;&nbsp;·&nbsp;&nbsp;PYTHON&nbsp;&nbsp;·&nbsp;&nbsp;REACT&nbsp;&nbsp;·&nbsp;&nbsp;NODE.JS
   </sub>
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3200&pause=1000&color=A0AEC0&center=true&vCenter=true&width=520&height=28&lines=Backend+automation+%26+APIs;Full-stack+with+PHP+%7C+Node+%7C+React;Docker+%2B+DevOps+in+progress" alt="roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3200&pause=1000&color=A0AEC0&center=true&vCenter=true&width=560&height=28&lines=Backend+automation+%26+APIs;Laravel+%7C+PHP+%7C+Python+scripts;Full-stack+with+Node+%7C+React;Docker+%2B+DevOps+in+progress" alt="roles" />
 
   <br/>
 
@@ -30,7 +30,7 @@
 
 ### Who I am
 
-Backend-focused engineer shipping automation and APIs with **PHP**, **MySQL**, and **Node.js**. I care about performance, clean interfaces, and systems that stay calm under load — currently leveling up **Docker**, DevOps, and scalable architecture.
+Backend-focused engineer shipping APIs and products with **Laravel**, **PHP**, **MySQL**, and **Node.js** — plus **Python** automation scripts that take the repetitive work off the table. I care about performance, clean interfaces, and systems that stay calm under load — currently leveling up **Docker**, DevOps, and scalable architecture.
 
 <br/>
 
@@ -38,7 +38,7 @@ Backend-focused engineer shipping automation and APIs with **PHP**, **MySQL**, a
 
 | ⚙️ Building | 📚 Learning | 💬 Ask me about |
 | :---: | :---: | :---: |
-| Backend automation · APIs · services | Docker · DevOps · scale | Performance · system design |
+| Laravel apps · APIs · Python automation | Docker · DevOps · scale | Performance · system design |
 
 </div>
 
@@ -51,7 +51,7 @@ Backend-focused engineer shipping automation and APIs with **PHP**, **MySQL**, a
 ### Toolkit
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,nodejs,react,js,linux,docker,git,bash&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,nodejs,react,js,linux,docker,git,bash&perline=11" alt="Tech stack" />
 </div>
 
 <br/>
